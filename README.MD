@@ -1,1 +1,0 @@
-Ini cuman uji coba ya kidsss
