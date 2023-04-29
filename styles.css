@@ -6,3 +6,15 @@ h1 {
     font-size: 40px;
     text-align: center;
 }
+mark {
+    background-color: yellow;
+}
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+
+}
+td,th{
+    border: 1px solid black;
+    padding: 8px;
+}
