@@ -1,10 +1,12 @@
 body {
     font-family: 'Times New Roman';
 }
+
 h1 {
     border: 2px solid black;
     font-size: 40px;
     text-align: center;
+    
 }
 mark {
     background-color: yellow;
@@ -12,9 +14,13 @@ mark {
 table {
     border: 2px solid black;
     border-collapse: collapse;
-
+    width: 60%;
 }
 td,th{
     border: 1px solid black;
     padding: 8px;
+    text-align:center;
+}
+ul{
+    list-style-type: decimal-leading-zero;
 }
