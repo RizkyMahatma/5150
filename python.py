@@ -14,7 +14,7 @@ while kondisi :
     )
 
     if pilihan == "1":
-        print("    Amri")
+        print("    Mahatma")
 
     elif pilihan == "2":
         print("    X-TJKT3")
